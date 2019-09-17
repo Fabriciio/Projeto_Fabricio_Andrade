@@ -16,3 +16,8 @@ void MC2(){
 
 cout << "MC2";
 }
+
+void MC3(){
+
+cout << "MC3";
+}

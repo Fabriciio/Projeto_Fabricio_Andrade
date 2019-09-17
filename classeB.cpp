@@ -35,3 +35,8 @@ void MB2(){
 
 cout << "MB2";
 }
+
+void MB3(){
+
+cout << "MB3";
+}
